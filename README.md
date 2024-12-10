@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+
+
+
 <!--
 **Merdoth/Merdoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

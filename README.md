@@ -1,13 +1,12 @@
-# Hiya 🤗
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=merdoth&show_icons=true&theme=radical)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=merdoth.merdoth)
-
+# Hiya! 🤗
 
 
 <!--
 **Merdoth/Merdoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=merdoth.merdoth)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=merdoth&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
